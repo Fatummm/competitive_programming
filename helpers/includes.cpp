@@ -1,0 +1,40 @@
+// for the case when platform does not have <bits/stdc++.h>
+#include <cassert>
+#include <cstdint>
+#include <algorithm>
+#include <bitset>
+#include <limits>
+#include <memory>
+#include <numeric>
+#include <array>
+#include <string_view>
+#include <bit>
+#include <numbers>
+#include <ranges>
+#include <cmath>
+#include <cstdarg>
+#include <cstddef>
+#include <cstdio>
+#include <cstdlib>
+#include <deque>
+#include <fstream>
+#include <iomanip>
+#include <iostream>
+#include <list>
+#include <locale>
+#include <map>
+#include <queue>
+#include <set>
+#include <sstream>
+#include <stack>
+#include <string>
+#include <vector>
+#include <chrono>
+#include <forward_list>
+#include <random>
+#include <regex>
+#include <tuple>
+#include <unordered_map>
+#include <unordered_set>
+
+
