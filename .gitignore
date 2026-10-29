@@ -19,3 +19,6 @@ build/
 input.txt
 .vscode
 .DS_Store
+
+# Since main.cpp is already created, there is no need to track it
+*main.cpp
