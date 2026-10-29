@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary files
+tmp/
+build/
+
+# Other
+input.txt
+.vscode
+.DS_Store
