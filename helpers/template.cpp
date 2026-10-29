@@ -21,7 +21,7 @@ void print(const T& v) {
 }
 
 void Solve() {
-  
+  cout << "Hello, World!\n";
 }
 
 signed main() {
